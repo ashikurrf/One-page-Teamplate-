@@ -1,0 +1,286 @@
+/* font-family: 'Cookie', cursive;
+font-family: 'Raleway', sans-serif; */
+
+*{
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Raleway', sans-serif; 
+	font-size: 16px;
+	background-color:#304751 ;
+	overflow-x: hidden;
+}
+h1,h2,h3,h4,h5,h6{
+	padding: 0;
+	margin: 0;
+}
+
+#header-area{
+	background: url(img/ban-bg.jpg) no-repeat center center/cover;
+  height: 998px;
+
+}
+
+.navbar{
+
+padding: 30px 100px;
+}
+.navbar a{
+
+	font-family: 'Raleway Bold', sans-serif; 
+	font-size: 35.02px;
+	color: gray;
+
+}
+.hero-area{
+
+	padding: 180px 0;
+}
+.col-md-8{
+
+padding: 80px 0px;
+background-color: rgba(255,255,255,0.9);
+
+}
+
+
+.hero-text h1{
+	font-family: 'Cookie', cursive;
+	font-size: 104.17px;
+}
+.hero-text h2{
+	font-family: 'Raleway', sans-serif;
+	font-size: 76.99px;
+	font-weight: 600;
+	color: #F39C12;
+	    text-transform: uppercase;
+}
+.hero-text .btn-more a{
+	padding-top: 40px;
+	font-family: 'Raleway', sans-serif;
+	font-size:38.49px;
+	color: #757575;
+	}
+	img{
+		width: 100%;
+	}
+
+	.tradi{
+		background-color: #2a3b40;
+	}
+	.tradi .container{
+		padding: 80px 80px;
+
+	}
+
+	.tradi h3{
+
+		color: white;
+		font-family: 'Raleway', sans-serif;
+		font-size: 29.17px;
+		font-weight: 700;
+	}
+
+	.tradi p{
+
+		color: white;
+		font-family: 'Raleway', sans-serif;
+		font-size: 18.75px;
+		font-weight: 400;
+	}
+
+	.ban-2{
+
+		background-color:#d4d8d9 ;
+	}
+
+	.ban-2 .container{
+		padding: 80px 0px;
+	}
+
+	.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #2a3b40;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.ban-2 .col-4 h3{
+font-family: 'Raleway', sans-serif;
+font-size: 18.7px;
+color: #2a3b40;
+font-weight: 700;
+
+}
+
+.ban-2 .col-4 p{
+color: #2a3b40;
+font-family: 'Raleway', sans-serif;
+font-size: 16.62px;
+font-weight: 400;
+
+}
+
+
+.ban-3{
+
+	background: url(img/ban-3.jpg)no-repeat center center/cover;
+	height: 1225px;
+}
+ .ban-3 .container {
+
+ 	padding: 50px 50px;
+ }
+.ban-head h1{
+
+	color:#2a3b40 ;
+	font-family: 'Cookie', cursive;
+	font-size: 77.11px;
+}
+.ban-head h2{
+
+	color:#F39C12 ;
+	font-family: 'Raleway', sans-serif;
+	font-size: 47.59px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.ban-head  {
+
+background-color: rgba(255,255,255,0.9);
+padding:30px 0px;
+
+}
+
+.ban-in-content{
+
+	padding: 61px 0;
+}
+.ban-in-content h1{
+
+	color:#304751;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18.46px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.ban-in-content p{
+   padding: 10px 0;
+	color:#304751 ;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16.7px;
+	font-weight: 400;
+	
+}
+.ban-in-content h2{
+
+	color:#304751 ;
+	font-family: 'Raleway', sans-serif;
+	font-size: 14.58px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+.ban-in-content{
+background-color: rgba(255,255,255,0.9);
+}
+.tradi-2 .col-12 h1{
+
+	color:#304751 ;
+	font-family: 'Raleway', sans-serif;
+	font-size: 29.17px;
+	font-weight: 700;
+	
+
+}
+.tradi-2 .col-12 p{
+   padding: 15px 0;
+	color:#304751 ;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18.75px;
+	font-weight: 400;
+	
+
+}
+
+.tradi-2 .col-12 {
+background-color: rgba(255,255,255,0.8);
+padding: 30px 30px;
+
+}
+.tradi-2 .col-12 .btn{
+
+	color:#2a3b40 ;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16.67px;
+	font-weight: 700;
+}
+
+
+/*.ban-4{
+
+
+	background: url(img/ban-4.jpg)no-repeat center center/cover;
+width: 1437px;
+height: 821px;
+}*/
+
+.ban-4{
+
+	position: relative;
+}
+.ban-overlay{
+	position: absolute;
+	width: 100%;
+	left: 0px;
+	bottom:0px;
+	background-color: rgba(255,255,255,0.8);
+}
+
+
+.ban-4 .ban-4-head h1{
+   color:#304751 ;
+	font-family: 'Cookie', cursive;
+	font-size: 77.11px;
+	font-weight: 400;
+}
+
+.ban-4 .ban-4-head h2{
+   color:#ad6c12;
+	font-family: 'Raleway', sans-serif;
+	font-size: 47.59px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+.ban-4 .manu-icon {
+	background-color: white;
+	height: 100px;
+	width: 100px;
+	line-height: 100px;
+	border-radius: 50%;
+}
+.ban-4 .media-body  h4{
+
+	 color:#304751 ;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18.46px;
+	font-weight: 700;
+}
+
+.ban-4 .media-body  p{
+
+	 color:#304751 ;
+	font-family: 'Raleway', sans-serif;
+	font-size: 16.7px;
+	font-weight: 400;
+}
+
+
+
+
+
+
+
