@@ -1,0 +1,269 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+div#slider {
+    padding: 70px 0;
+}
+
+.navbar {
+    padding: 20px 0px;
+    background-color: #FDFEFE;
+    color: #FE6C00;
+}
+
+.nav-item {
+    padding-left: 30px;
+}
+
+.nanny {
+    color: orange;
+    font-size: 36px;
+    font-weight: 600px;
+    padding-left: 10px;
+}
+
+strong {
+    font-size: 20px;
+    color: #C109FC
+}
+
+.baby {
+    position: relative;
+}
+
+.slider-info {
+    width: 27%;
+    background: #ffb8e9;
+    padding: 7em 3em;
+    text-align: center;
+    border-radius: 50%;
+    box-shadow: 0 0 6px 0px #b9b9b9;
+    box-sizing: border-box;
+    text-align: top;
+    position: absolute;
+    top: 30%;
+    right: 10%;
+}
+
+.slider-info h4 {
+    color: white;
+}
+
+.outs_more-buttn a {
+    font-size: 14px;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 400;
+    letter-spacing: 1px;
+    background-color: #f8a640;
+    outline: none;
+    border-radius: 4px;
+    padding: 8px 12px;
+    border: none;
+}
+
+div#about {
+    padding: 24px 20px;
+    transition: .10s;
+}
+
+.icon {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin: 0 5px;
+    border: 50%;
+    border: 1px solid #EC5538;
+    background-color: #F8F4F1;
+}
+
+.icon h4 {
+    color: orange;
+}
+
+.icon p {
+    color: gray;
+}
+
+.fa {
+    font-size: 40px;
+}
+
+.my-2 {
+    font-family: italic;
+    font-weight: bold;
+}
+
+.recent {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    transition: .5s;
+    background-color: #F7F2EE;
+}
+
+.section-title {
+    padding: 70px 0;
+}
+
+.section-title p {
+    color: gray;
+}
+
+.single-work {
+    border: 50%;
+    border: 1px solid #EC5538;
+    background-color: #F8F4F1;
+    padding: 24px 20px;
+    height: 200px;
+}
+
+.work-icon .fa {
+    font-size: 30px;
+    background-color: pink;
+    outline: none;
+    border-radius: 100px;
+    padding: 20px 24px;
+    border: none;
+}
+
+.media-body h4 {
+    color: orange;
+}
+
+.media-body {
+    color: gray;
+}
+
+.logo .fa-facebook {
+    font-size: 30px;
+    background-color: #316AF6;
+    color: white;
+    outline: none;
+    border-radius: 110px;
+    padding: 20px 24px;
+    border: none;
+}
+
+.logo .fa-twitter {
+    font-size: 30px;
+    background-color: #0DF7ED;
+    color: white;
+    outline: none;
+    border-radius: 110px;
+    padding: 20px 24px;
+    border: none;
+}
+
+.logo .fa-instagram {
+    font-size: 30px;
+    background-color: #F7910D;
+    color: white;
+    outline: none;
+    border-radius: 110px;
+    padding: 20px 24px;
+    border: none;
+}
+
+.parent-content {
+    padding-top: 40px;
+}
+
+.child {
+    background-color: #F1EBE6;
+}
+
+.child img {
+    padding: 10px 0;
+}
+
+img {
+    width: 100%;
+}
+
+.contact-forms textarea {
+    padding: 50px 50px;
+}
+
+.placeholder {
+    text-align: left;
+}
+
+.send {
+    color: white;
+}
+
+.map {
+    padding: 50px 0;
+}
+
+.baby {
+    position: relative;
+}
+
+.slider-out {
+    width: 27%;
+    background: white;
+    padding: 3em 2em;
+    text-align: center;
+    box-shadow: 0 0 6px 0px #b9b9b9;
+    box-sizing: border-box;
+    text-align: top;
+    position: absolute;
+    top: 15%;
+    right: 70%
+}
+
+.slider-out h4 {
+    color: orange;
+}
+
+.slider-out p {
+    color: gray;
+}
+
+.nanny-bottom {
+    background-color: #090706;
+    padding: 50px 0;
+}
+
+.nanny-bottom h4 {
+    color: white;
+}
+
+.nanny-bottom p {
+    color: gray;
+}
+
+.f-logo .fa {
+    font-size: 20px;
+    padding: 10px 12px;
+    background-color: #316AF6;
+    border-radius: 10px;
+}
+
+.move-top .fa {
+    font-size: 20px;
+    background-color: none;
+    outline: none;
+    border-radius: 100px;
+    border: none;
+    padding: 14px 16px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 70px;
+}
+
+.footer {
+    background-color: #000000;
+}
+
+.footer p {
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px
+}
