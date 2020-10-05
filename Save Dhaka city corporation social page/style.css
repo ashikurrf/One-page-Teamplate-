@@ -1,0 +1,155 @@
+*{
+    box-sizing: border-box;
+    }
+    
+    body{
+        overflow-x: hidden;
+    }
+    div#slider{
+        padding: 0px 0;
+    }
+    .brand{
+    
+        padding: 0px 0px;
+        background-color: #FDFEFE;
+        color: #FE6C00 ;
+    }
+    .nav-item{
+        padding-left: 30px;
+    }
+    .brand{
+        color: orange;
+        font-size: 36px;
+        font-weight: 600px;
+        padding-left: 10px;
+    }
+    
+    /*-------- left side*------------*/
+    .single-work {
+    padding: 24px 20px;
+    transition: .5s;
+    color: #bbb;
+    border:1px;
+    }
+    
+    .single-work:hover {
+    background: #03A9F4;
+    color: #fff;
+    }
+    
+    .work-icon i {
+    font-size: 3rem;
+    color: lightgray;
+    }
+    
+    /*-------END-------*/
+    .outs_more-buttn a {
+        font-size: 14px;
+        color: #ffffff;
+        text-decoration: none;
+        font-weight: 400;
+        letter-spacing: 1px;
+        background-color: #f8a640;
+        outline: none;
+        border-radius: 4px;
+        padding: 8px 12px;
+        border: none;
+    }
+    
+    .p-bottom
+    {
+        background-color: #090706   ;
+        padding: 30px 0;
+    }
+    
+    .p-bottom h4{
+        color: white;
+    }
+    
+    .p-bottom p{
+        color: gray;
+    }
+    
+    .f-logo .fa{
+        font-size: 20px;
+        padding: 10px 12px;
+        background-color:#316AF6 ;
+        border-radius: 10px;
+    }
+    
+    .move-top .fa{
+        font-size: 20px;
+        background-color: none;
+        outline:none;
+        border-radius: 100px;
+        border: none;
+        padding: 14px 16px;
+        color:white;
+        margin-top: 10px;
+        margin-bottom: 70px;
+    }
+    
+    .footer{
+    background-color:#000000 ;
+    }
+    
+    .footer p{
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px
+    }
+    
+/* Post Section Style */
+
+.post{
+    background: #f4f8fb;
+}
+
+.post-header{
+    padding-top:10px ;
+}
+
+.post-header img{
+    height: 80px;
+    width: 80px;
+}
+
+.post-meta{
+    margin-left: -45px;
+}
+.post-meta ul li{
+    list-style: none;
+}
+
+.post-details{}
+
+.post-details img{
+    width: 100%;
+    height: 400px;
+}
+
+.post-details p {
+    font-size: 16px;
+    text-align: justify;
+    font-family: inherit;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.vote{
+    color: Red;
+}
+
+.comment{
+    color: #0595e3;
+}
+
+.react i{
+    margin-top: 5px;
+}
+
+.react span{
+    margin-left: 5px;
+}
+
