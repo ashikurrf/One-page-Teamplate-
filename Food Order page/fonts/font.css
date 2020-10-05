@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Focus-Regular';
+  src: url('Focus-Regular.eot');
+  src: url('Focus-Regular.eot?#iefix') format('embedded-opentype'),
+       url('Focus-Regular.svg#Focus-Regular') format('svg'),
+       url('Focus-Regular.ttf') format('truetype'),
+       url('Focus-Regular.woff') format('woff'),
+       url('Focus-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

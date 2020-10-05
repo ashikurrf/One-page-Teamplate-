@@ -1,0 +1,38 @@
+
+
+@media(min-width:1200px){
+    
+}
+
+/*		Default desktop Layout: 1170px.   */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+ 
+}
+
+/*	Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	
+}
+
+
+/*	Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+.promo-content {
+    padding: 24px 0;
+}
+.promo-title h1 {
+    font-size: 50px;
+   
+}
+}
+
+/*		Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+
+}
+
